@@ -167,4 +167,3 @@ Werkzeug==1.0.1
 xmltodict==0.12.0
 zc.lockfile==2.0
 zipp==3.4.1
-© 2021 GitHub, Inc.
